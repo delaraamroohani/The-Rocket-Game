@@ -1,0 +1,4 @@
+I O -> q 4 
+math -> q 1 , 4 DONE
+pseudocode -> adadbazi
+loop -> extra credit?
